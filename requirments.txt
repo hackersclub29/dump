@@ -1,2 +1,3 @@
 pip install python-gnupg
-pip install request
+pip install requests
+
